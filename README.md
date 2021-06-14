@@ -1,2 +1,3 @@
-# pytorch.tinycnn
-Some work done to showcase extremely tiny CNN architectures. Feel free to use them for embedded / IoT stuff.
+# Tiny CNN
+
+This repository contains many different mobile convolution architectures for deep learning, including SqueezeNext and depthwise convolutions. Feel free to use them for any purpose.
